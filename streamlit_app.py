@@ -1,6 +1,5 @@
 Streamlit interface for Instagram post pre_processing.
 Run with:  streamlit run streamlit_app.py
-"""
 from __future__ import annotations
 
 import io
